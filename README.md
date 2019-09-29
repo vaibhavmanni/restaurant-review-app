@@ -18,9 +18,11 @@ Restaurant Reviews App
 
 
 ## Run the Application
+1. See live Project [here.](https://vaibhavmanni.github.io/restaurant-review-app/)
+                
+                OR
 
-* Download as .zip file or clone this project:
-
+2. Download as .zip file or clone this project:
 
 * In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
 
