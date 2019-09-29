@@ -19,11 +19,6 @@ Restaurant Reviews App
 
 ## Run the Application
 
-1. Project live [here]()
-          
-          OR
-
-2. Run it localy
 * Download as .zip file or clone this project:
 
 
